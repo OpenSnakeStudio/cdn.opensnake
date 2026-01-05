@@ -1,5 +1,6 @@
 
-.router-link-exact-active, .text-center.text-xs.text-gray-300 {
+.router-link-exact-active, .text-gray-300 {
                 display: none !important;
               }
+
 
