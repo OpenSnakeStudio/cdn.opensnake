@@ -1,6 +1,7 @@
 
-.router-link-exact-active, .text-gray-300 {
+.router-link-exact-active, .text-gray-300, .tracking-widest {
                 display: none !important;
               }
+
 
 
