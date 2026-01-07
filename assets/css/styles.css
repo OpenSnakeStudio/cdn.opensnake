@@ -7,5 +7,9 @@
    display: none !important;
 }
 
+/*litellm*/
+a[alt="LiteLLM Brand"] {
+  display: none !important;
+}
 
 
