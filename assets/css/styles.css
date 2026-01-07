@@ -8,9 +8,10 @@
 }
 
 /*litellm*/
-a:has(img[alt="LiteLLM Brand"]) {
+a:has(img[alt="LiteLLM Brand"]), div.text-center:has(h2.ant-typography) {
   display: none !important;
 }
+
 
 
 
