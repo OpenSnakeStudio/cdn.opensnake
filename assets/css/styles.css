@@ -8,9 +8,10 @@
 }
 
 /*litellm*/
-img[alt="LiteLLM Brand"] {
+a:has(img[alt="LiteLLM Brand"]) {
   display: none !important;
 }
+
 
 
 
