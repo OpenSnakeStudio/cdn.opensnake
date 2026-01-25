@@ -13,6 +13,10 @@ a:has(img[alt="LiteLLM Brand"]), div.text-center:has(h2.ant-typography) {
 }
 
 
+/*vaultwarden*/
+bit-icon[aria-label="Bitwarden logo"] {
+  display: none !important;
+}
 
 
 
